@@ -1,2 +1,2 @@
 <h1>Welcome</h1>
-<p>Write your content in here as you would normally in HTML</p>
+<p>If you want to study german this is the place</p>
